@@ -1,0 +1,13 @@
+.idea
+.vscode
+.DS_Store
+*.swp
+*.swo
+
+vendor
+server.log
+bbb-downloader
+bbb-downloader.exe
+debug
+sorular
+tmp/*
